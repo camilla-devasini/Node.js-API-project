@@ -3,7 +3,8 @@
   "scripts": {
     "format": "prettier --write .",
     "test": "jest",
-    "lint": "eslint src/ --cache --fix"
+    "lint": "eslint src/ --cache --fix",
+    "build": "tsc"
   },
   "engines": {
     "node": ">=16"
