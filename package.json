@@ -1,7 +1,7 @@
 {
   "name": "node.js-api-project",
   "scripts": {
-    "format": "prettier --write",
+    "format": "prettier --write .",
     "test": "jest"
   },
   "engines": {
